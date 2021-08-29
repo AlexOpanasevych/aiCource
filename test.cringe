@@ -1,0 +1,8 @@
+program {
+	real a = 2.0e10;
+	real b;
+	real c;
+    scan(a, b, c);
+
+
+}
